@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/71541409/164498700-1b44dcbe-7ab8-4f2e-bf48-085597875043.jpg" width="60%" />
 </p>
 
-> [Demo](https://nrfadlia.github.io/happybirthday/) &nbsp;&middot;&nbsp;
+> [Demo](https://nrfadlia.github.io/short-project/) &nbsp;&middot;&nbsp;
 > [Documentation](https://www.nrfadlia.com/2021/04/template-membuat-ucapan-happy-birthday.html)
 
 ## 🚀 How to Use
@@ -13,7 +13,7 @@
 
     ```bash
     # Clone this repository or download
-    $ git clone https://github.com/fajaraldev/happybirthday
+    $ git clone https://github.com/nrfadlia/short-project
 
     # Go into the repository
     $ cd happybirthday
@@ -40,5 +40,5 @@ If you have any idea to make it more interesting, feel free to send a PR, or cre
 
 ### [MIT](LICENSE)
 
-> Github [@fajaraldev](https://github.com/fajaraldev) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar)
+> Github [@nrfadlia](https://github.com/fajaraldev) &nbsp;&middot;&nbsp;
+> Instagram [@nrfadlia](https://instagram.com/fajarghifar)
